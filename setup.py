@@ -15,7 +15,7 @@ docs_extras = [
 
 setuptools.setup(
     name="pyNetCrypt",
-    version="0.0.1",
+    version="0.0.2",
     author="ALIASGAR - ALI",
     author_email="aholo2000@gmail.com",
     description="Networking Device MD5 Password Encrypt/Decrypt utility",
